@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>How to use Shoe API:</h1>
+    <hr>
+    <h2>Getting All Shoes</h2>
+    <p>This gets every shoe in the database</p>
+    <p>Link: <a href="http://localhost:3000/api/v1/shoes">http://localhost:3000/api/v1/shoes</a></p>
+    <p>Example Result:</p>
+    <pre id="getAllShoes">
+        Example Code: axios.get('http://localhost:3000/api/v1/shoes')
+    </pre>
+    <br>
+    <h2>Getting One Shoe</h2>
+    <p>This gets a single shoe from the database based on the id given</p>
+    <p>Link: <a href="http://localhost:3000/api/v1/shoes/:id">http://localhost:3000/api/v1/shoes/:id</a></p>
+    <p>Example Result:</p>
+    <pre id="getOneShoe">
+        Example Code: axios.get('http://localhost:3000/api/v1/shoes/61ba64a93c0b0bed8453e1b8')
+    </pre>
+    <br>
+    <h2>Creating Shoes</h2>
+    <p>This creates a shoe based with the information in the query</p>
+    <p>Link: <a href="">http://localhost:3000/api/v1/shoes?name=[ProductName]&link=[ProductLink]&price=[ProductPrice]&featured=[ProductFeatured]&rating=[ProductRating]&createdAt=[ProductCreatedAt]&anime=[ProductAnime]</a></p>
+    <pre>
+        Example Code: axios.post('http://localhost:3000/api/v1/shoes?name=Shoe&price=10&featured=false&rating=3&createdAt=[date]&anime=shoeAnime')
+    </pre>
+    <br>
+    <h2>Deleting Shoes</h2>
+    <p>This deletes a shoe based on the id</p>
+    <p>Link: <a href="http://localhost:3000/api/v1/shoes/:id">http://localhost:3000/api/v1/shoes/:id</a></p>
+    <pre>
+        Example Code: axios.delete('http://localhost:3000/api/v1/shoes/61ba64a93c0b0bed8453e1ba')
+    </pre>
+    <br>
+    <h2>Updating Shoes</h2>
+    <p>This updates individual shoes and it takes in an ID to know which one to update and a shoe object to update the selected one to</p>
+    <pre>
+        Example Code: axios.patch('http://localhost:3000/api/v1/shoes/61ba64a93c0b0bed8453e1ba?name=test2&link=www.shoe.com&price=12&featured=true&rating=3.5&createdAt=2021-12-14T14:12:43.511Z&anime=Saiki%20K')
+    </pre>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.21.1/axios.min.js"
+        integrity="sha512-bZS47S7sPOxkjU/4Bt0zrhEtWx0y0CRkhEp8IckzK+ltifIIE9EMIMTuT/mEzoIMewUINruDBIR/jJnbguonqQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="./docs.js"></script>
+</body>
+</html>

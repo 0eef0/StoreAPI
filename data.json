@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Tanjiro Water Breathing Sneakers",
+        "link": "https://gearanime.com/collections/demon-slayer/products/tanjiro-jordan-sneakers-water-skill-costume-demon-slayer-shoes-anime-mn04",
+        "price": 99.95,
+        "featured": true,
+        "rating": 4.8,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "Demon Slayer"
+    },
+    {
+        "name": "Nezuko Sneakers",
+        "link": "https://gearanime.com/collections/demon-slayer/products/nezuko-jordan-sneakers-costume-demon-slayer-shoes-anime-mn04",
+        "price": 99.95,
+        "featured": true,
+        "rating": 4.8,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "Demon Slayer"
+    },
+    {
+        "name": "Zenitsu Sneakers",
+        "link": "https://gearanime.com/collections/demon-slayer/products/zenitsu-jordan-sneakers-costume-demon-slayer-shoes-anime-mn04",
+        "price": 99.95,
+        "featured": false,
+        "rating": 4.8,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "Demon Slayer"
+    },
+    {
+        "name": "Kyojuro Rengoku Shoes",
+        "link": "https://gearanime.com/collections/demon-slayer/products rengoku-jd-sneakers-fire-skill-demon-slayer-shoes-anime-fan-gift-idea-mn05",
+        "price": 99.95,
+        "featured": true,
+        "rating": 5,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "Demon Slayer"
+    },
+    {
+        "name": "Inosuke Slip Ons",
+        "link": "https://gearanime.com/collections/demon-slayer/products/inosuke-slip-on-shoes-custom-demon-slayer-anime-shoes",
+        "price": 85.95,
+        "featured": true,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "Demon Slayer"
+    },
+    {
+        "name": "Keigo Takami Sneakers",
+        "link": "https://gearanime.com/collections/my-hero-academia/products/hawks-shoes-high-top-keigo-takami-my-hero-academia-sneakers",
+        "price": 109.95,
+        "featured": false,
+        "rating": 5,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "My Hero Academia"
+    },
+    {
+        "name": "Katsuki Bakugo Sneakers",
+        "link": "https://gearanime.com/collections/my-hero-academia/products/katsuki-bakugo-sneakers-custom-my-hero-academia-anime-shoes",
+        "price": 99.95,
+        "featured": false,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "My Hero Academia"
+    },
+    {
+        "name": "All Might Sneakers",
+        "link": "https://gearanime.com/collections/my-hero-academia/products/one-for-all-all-might-sneakers-custom-anime-my-hero-academia-shoes",
+        "price": 99.95,
+        "featured": false,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "My Hero Academia"
+    },
+    {
+        "name": "Shoto Todoroki Skate Shoes",
+        "link": "https://gearanime.com/collections/my-hero-academia/products/shoto-todoroki-skate-shoes-my-hero-academia-custom-anime-shoes-pn10",
+        "price": 89.95,
+        "featured": true,
+        "rating": 5,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "My Hero Academia"
+    },
+    {
+        "name": "Izuku Midoriya Slip Ons",
+        "link": "https://gearanime.com/collections/my-hero-academia/products/izuku-midoriya-slip-on-shoes-my-hero-academia-custom-anime-shoes",
+        "price": 85.95,
+        "featured": false,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "My Hero Academia"
+    },
+    {
+        "name": "Old Joseph Joestar Sneakers",
+        "link": "https://gearanime.com/collections/jojos-bizarre-adventure/products/jojos-bizarre-adventure-joseph-joestar-old-sneakers-custom-anime-shoes-mn1121019",
+        "price": 99.95,
+        "featured": true,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Josuke Higashikata Sneakers",
+        "link": "https://gearanime.com/collections/jojos-bizarre-adventure/products/jojos-bizarre-adventure-josuke-higashikata-sneakers-custom-anime-shoes-mn1121013",
+        "price": 99.95,
+        "featured": true,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Dio Brando Sneakers",
+        "link": "https://gearanime.com/products/jojos-bizarre-adventure-dio-brando-sneakers-custom-anime-shoes-mn1121002?_pos=2&_sid=1c72d946c&_ss=r",
+        "price": 99.95,
+        "featured": true,
+        "rating": 5,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Jotaro Kujo Sneakers",
+        "link": "https://gearanime.com/collections/jojos-bizarre-adventure/products/jotaro-kujo-air-sneakers-manga-style-jojos-shoes-anime-fan-gift-pt06",
+        "price": 94.95,
+        "featured": true,
+        "rating": 5,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Rohan Kishibe Skate Shoes",
+        "link": "https://gearanime.com/collections/jojos-bizarre-adventure/products/rohan-kishibe-skate-sneakers-custom-anime-jojos-bizarre-adventure-shoes-mv221000112",
+        "price": 89.95,
+        "featured": true,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Bruno Bucciarati Slip Ons",
+        "link": "https://gearanime.com/collections/jojos-bizarre-adventure/products/bruno-bucciarati-sticky-fingers-slip-on-sneakers-custom-anime-jojos-shoes",
+        "price": 89.95,
+        "featured": true,
+        "rating": 5,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Giorno Giovanna Slip Ons",
+        "link": "https://gearanime.com/collections/jojos-bizarre-adventure/products/giorno-giovanna-slip-on-sneakers-custom-anime-jojos-bizarre-adventure-shoes",
+        "price": 89.95,
+        "featured": true,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "JoJo's Bizarre Adventure"
+    },
+    {
+        "name": "Kusuo Saiki Sneakers",
+        "link": "https://gearanime.com/collections/the-disastrous-life-of-saiki-k/products/kusuo-saiki-sneakers-custom-saiki-k-anime-shoes",
+        "price": 99.95,
+        "featured": true,
+        "rating": 5,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "Saiki K"
+    },
+    {
+        "name": "Riki Nendo Shoes",
+        "link": "https://gearanime.com/collections/the-disastrous-life-of-saiki-k/products/riki-nendo-air-force-shoes-saiki-k-custom-anime-sneakers-pt11",
+        "price": 96.95,
+        "featured": true,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "Saiki K"
+    },
+    {
+        "name": "Shun Kaidou",
+        "link": "https://gearanime.com/collections/the-disastrous-life-of-saiki-k/products/shun-kaidou-skate-shoes-the-disastrous-life-of-saiki-k-anime-shoes-pn11",
+        "price": 89.95,
+        "featured": false,
+        "rating": 0,
+        "createdAt": "2021-12-14T14:12:43.511Z",
+        "anime": "Saiki K"
+    }
+]
